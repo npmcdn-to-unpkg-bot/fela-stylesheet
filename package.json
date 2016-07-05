@@ -1,6 +1,9 @@
 {
   "name": "fela-stylesheet",
   "version": "1.0.3",
+  "peerDependencies": {
+    "fela": "1.0.3"
+  },
   "description": "Fela helper to organize multiple rules in StyleSheets",
   "main": "lib/StyleSheet.js",
   "files": [
