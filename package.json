@@ -1,6 +1,6 @@
 {
   "name": "fela-stylesheet",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fela helper to organize multiple rules in StyleSheets",
   "main": "lib/StyleSheet.js",
   "files": [
@@ -9,7 +9,7 @@
     "/lib",
     "/dist"
   ],
-  "repository": "https://github.com/rofrischmann/fela/",
+  "repository": "https://github.com/rofrischmann/fela-stylesheet/",
   "keywords": [
     "fela",
     "fela-tools",
