@@ -13,12 +13,12 @@ A simple helper to organize multiple rules within one single StyleSheet as used 
 npm i --save fela-stylesheet
 ```
 Assuming you are using [npm](https://www.npmjs.com) as your package mananger you can just `npm install`.<br>
-Otherwise we also provide a [UMD](https://github.com/umdjs/umd). You can easily use it via [npmcdn](https://npmcdn.com/). It registers a  `FelaStyleSheet` global.
+Otherwise we also provide a [UMD](https://github.com/umdjs/umd). You can easily use it via [unpkg](https://unpkg.com/). It registers a  `FelaStyleSheet` global.
 ```HTML
 <!-- (Development) Unminified version -->
-<script src="https://npmcdn.com/fela-stylesheety@1.0.2/dist/fela-stylesheet.js"></script>
+<script src="https://unpkg.com/fela-stylesheety@1.0.2/dist/fela-stylesheet.js"></script>
 <!-- (Production) Minified version -->
-<script src="https://npmcdn.com/fela-stylesheet@1.0.2/dist/fela-stylesheet.min.js"></script>
+<script src="https://unpkg.com/fela-stylesheet@1.0.2/dist/fela-stylesheet.min.js"></script>
 ```
 
 ## API
